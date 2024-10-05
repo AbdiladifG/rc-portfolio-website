@@ -1,7 +1,7 @@
 My Portfolio Project
 This is a simple portfolio showcasing my work and abilities as a software engineer.
 
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/abdi/Downloads/rc-portfolio-website/rc-portfolio-website/images/pic-of-website.png?version%253D1728101116224)
+
 
 Link to project: abdiladifgurhan.netlify.app
 
